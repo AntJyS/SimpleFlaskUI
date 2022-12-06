@@ -1,6 +1,6 @@
 h1 {
     border: 2px #eee solid;
-    color: red;
+    color: blue;
     text-align: center;
     padding: 10px;
     background-color: #F5F5F5
@@ -15,7 +15,7 @@ h2 {
 }
  p {
         font-size: 15pt;
-        text-align: left;
+        text-align: right;
     }
  body {
         background-color : blue;
