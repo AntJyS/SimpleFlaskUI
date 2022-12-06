@@ -3,6 +3,7 @@ h1 {
     color: red;
     text-align: center;
     padding: 10px;
+    background-color: #F5F5F5
 }
 
 h2 {
@@ -10,6 +11,7 @@ h2 {
     color: red;
     text-align: center;
     padding: 10px;
+    background-color: #F5F5F5
 }
  p {
         font-size: 15pt;
