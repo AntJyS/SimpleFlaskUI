@@ -15,8 +15,8 @@ h2 {
 }
  p {
         font-size: 15pt;
-        text-align: center;
+        text-align: right;
     }
  body {
-        background-color : blue;
+        background-color : white;
  }
