@@ -20,10 +20,3 @@ h2 {
  body {
         background-color : white;
  }
- div.container {
-        max-width: 500px;
-        margin: 100px auto;
-        border: 20px solid white;
-        padding: 10px;
-        text-align: center;
-      }
