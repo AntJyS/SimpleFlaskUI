@@ -1,10 +1,5 @@
-# CI/CD With Jenkins, Python, Docker
+Trabajo de Integración continua con Jenkins, Python, Docker
 
-- Python 3x, PyCharm
-- Docker, DockerHub account
-- Git, and git-bash or GitHubDesktop
-- GitHub account
-- Jenkins Server on Linux
-- Linux Server with docker installed
+Desde un workspace de Jenkins se compila el código, se construyen las imágenes de docker y se componen para conectar la base de datos con la página web.
 
-[Tutorial here](https://youtu.be/jHkbtzemsGs)
+El link en donde podemos evidenciar el desarrollo del proyecto es el siguiente: https://www.youtube.com/watch?v=QUryU7sF7lc
